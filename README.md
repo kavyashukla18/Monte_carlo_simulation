@@ -14,4 +14,4 @@ The same ratio can be used between the number of points within the square and th
 
 Hence we can use the following formula to estimate Pi:
 
-π ≈ 4 x (number of points in the circle / total number of points)'
+π ≈ 4 x (number of points in the circle / total number of points)`
